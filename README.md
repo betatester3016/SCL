@@ -17,11 +17,13 @@ This hybrid system supports a wide range of functions, including symbolic reason
 
 With this symbolic structure, more complex routines can be constructed using simplified control logic — similar in spirit to B.A.S.I.C. (Beginner’s All-purpose Symbolic Instruction Code).
 
-##### The BASIC Programming Language
+#### Historical BASIC
 
-Created in 1964 by John Kemeny and Thomas Kurtz at Dartmouth College, BASIC was a user-friendly programming language designed to make computing accessible to beginners. Its simple, interpreted nature was fundamental to the early personal computer revolution and its concepts continue to influence modern languages like Java and Python.
+Created in 1964 by John Kemeny and Thomas Kurtz at Dartmouth College, BASIC was designed to make computing accessible to beginners. Its simple, interpreted nature was fundamental to the early personal computer revolution and continues to influence modern languages like Java and Python.
 
-##### Basic Language (as in Simple Language)
+#### Basic as a Communication Principle  
+
+Beyond programming history, “basic” also reflects a principle of communication: using simple words, common phrases, and straightforward grammar. This ensures clear, effective communication — making complex information understandable to a wide audience, regardless of expertise.
 
 As a principle of communication, Basic Language is characterized by its use of simple words, common phrases, and straightforward grammar. Its purpose is to ensure clear and effective communication, making complex information easily understood by a wide audience, regardless of their expertise.
 

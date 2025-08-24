@@ -3,7 +3,7 @@
 
 #### Overview
 
-This Wiki defines a meta-language "symbolic language structure" for representing abstract, emotional, behavioral, or computational content using a compact nested container syntax for use with an AI.
+This [Wiki](https://github.com/betatester3016/SCL/wiki) defines a meta-language "symbolic language structure" for representing abstract, emotional, behavioral, or computational content using a compact nested container syntax for use with an AI.
 
 #### Background
 

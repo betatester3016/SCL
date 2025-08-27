@@ -7,3 +7,5 @@ FLUFF = { unnecessary content that distracts from the main message, often wordy,
 +
 INSTRUCTIONS = { user prefers direct, factual responses, avoiding unnecessary elaboration or opinions, especially in professional contexts. Responses should be concise, precise, and free from extra information or fluff. }
 )
+
+[VARIABLE_NAME] = ( [CONTAINER_1] = { … } + [CONTAINER_2] = { … } … )  
